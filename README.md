@@ -18,7 +18,7 @@ Im Rahmen des Data Analytics Moduls aus dem Data Scientist Kurs wurde in der Pro
 * Theoretische Grundlagen aus dem Kurs
   * Bezugnahme auf Kursinhalte wie Datenbereinigung, deskriptive - und explorative Datenanalyse
 
-### Technische Voraussetzung
+### Technische Voraussetzungen
 
 * Python - Version 3.11.7
 * JupyterLab Desktop - Version 4.2.5-1
@@ -27,3 +27,6 @@ Im Rahmen des Data Analytics Moduls aus dem Data Scientist Kurs wurde in der Pro
   * Pandas - Version 2.1.1
   * Plotly - Version 5.9.0
   * Dash - Version 2.18.2
+
+### Autor
+#### Mert Basaran
