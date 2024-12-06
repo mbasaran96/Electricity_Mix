@@ -1,5 +1,5 @@
 # Electricity_Mix
-Datenanalyse eines Datensatzes aus Our World in Data (https://ourworldindata.org/electricity-mix) mit Einblicken in die weltweite Stromproduktion und ihre Verteilung
+Datenanalyse eines Datensatzes aus Our World in Data (https://ourworldindata.org/electricity-mix) mit Einblicken in die weltweite Stromproduktion und ihrer Verteilung.
 
 ## Projektarbeit - Data Analytics 
 Im Rahmen des Data Analytics Moduls aus dem Data Scientist Kurs wurde in der Projektarbeit eine Datenanalyse mit Augenmerk auf folgende Themenpunkte durchgeführt:
