@@ -29,4 +29,7 @@ Im Rahmen des Data Analytics Moduls aus dem Data Scientist Kurs wurde in der Pro
   * Dash - Version 2.18.2
 
 ### Autor
-#### Mert Basaran
+#### Mert Basaran (https://github.com/mbasaran96)
+
+### Lizenz
+Das Projekt ist unter der MIT License lizenziert.
